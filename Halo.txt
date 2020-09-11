@@ -1,2 +1,6 @@
 Halo
+<<<<<<< m
 Halo3
+=======
+Halo2
+>>>>>>> master
